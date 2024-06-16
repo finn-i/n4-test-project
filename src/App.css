@@ -1,0 +1,29 @@
+.toggle-box-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.toggle-box {
+  width: 15rem;
+  height: 2rem;
+  background-color: #ccc;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+  border: 2px solid transparent;
+  cursor: pointer;
+}
+
+.toggle-box:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.toggle-box-on {
+  background-color: rgba(80, 80, 128, 0.1);
+  border: 2px solid purple;
+}
+
+.toggle-box-selected {
+  background-color: rgba(200, 20, 20, 0.1);
+  border: 2px solid red;
+}
