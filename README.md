@@ -14,6 +14,6 @@ Start development server:
 
 ## Relevant Files
 
-[App.tsx](App.tsx)
+[App.tsx](src/App.tsx)
 
-[components/ToggleBox.tsx](components/ToggleBox.tsx)
+[ToggleBox.tsx](src/components/ToggleBox.tsx)
