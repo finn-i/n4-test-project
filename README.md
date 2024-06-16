@@ -8,7 +8,7 @@ Installation:
 
 `npm install`  
 
-To Start Development Server:
+Start development server:
 
 `npm run dev`
 
@@ -16,4 +16,4 @@ To Start Development Server:
 
 [App.tsx](App.tsx)
 
-[components/ToggleBox.tsx](components/ToggleBox.tsx): 
+[components/ToggleBox.tsx](components/ToggleBox.tsx)
